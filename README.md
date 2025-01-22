@@ -109,6 +109,6 @@ Tue: Free           Free           Free           Free           Free           
 2. Lab and tutorial slots require continuous free slots.
 3. Editing between multi-slot classes is restricted to maintain consistency.
 
----
+
 
 
