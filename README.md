@@ -1,4 +1,4 @@
-**# Timetable Scheduler
+# Timetable Scheduler
 
 ## Overview
 Timetable Scheduler is a Java-based application designed to create and manage class schedules for an educational institution. It allows users to input subjects, allocate class types (lecture, lab, or tutorial), and edit schedules with flexibility, ensuring no conflicts in allocated slots.
@@ -110,4 +110,4 @@ Tue: Free           Free           Free           Free           Free           
 
 ---
 
-**
+
